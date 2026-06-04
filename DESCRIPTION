@@ -11,6 +11,7 @@ License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 Imports: methods, stats, dplyr, Matrix, MASS, Rcpp
+SystemRequirements: C++14
 LinkingTo: Rcpp, RcppArmadillo, RcppGSL
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
